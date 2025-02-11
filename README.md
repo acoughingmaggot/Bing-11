@@ -1,6 +1,7 @@
 # Bing Acrylic
 
-![Bing Acrylic Preview](images/preview.png)
+![Bing Acrylic Preview](https://github.com/user-attachments/assets/3c42e8cd-012c-40d5-bf1a-0bc9ed089c23)
+
 
 **Bing Acrylic** is a custom user style designed for [Stylus](https://userstyles.world), inspired by the Windows 11 acrylic aesthetic. This theme enhances Bing's interface with a sleek, modern, and translucent design.
 
