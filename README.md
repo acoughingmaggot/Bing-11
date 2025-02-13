@@ -7,7 +7,7 @@
 
 ## Features
 - **Acrylic Design**: Blur effects, gradients, and refined colors.
-- **Dark Mode**: Optimized for an eye-friendly experience.
+- **Customisation**: Has a variety of customisable options.
 - **Custom Backgrounds**: Select from Earth, Sky, Water, and more.
 
 ## Installation
@@ -20,7 +20,8 @@
 
 
 4. **Customize (Optional)**: Within Stylus, you can customize the background image by selecting from the predefined options or by entering a custom image URL.
-    ![image](https://github.com/user-attachments/assets/8832a763-2fdc-489b-9b0f-091213af7759)
+    ![image](https://github.com/user-attachments/assets/f5bc904d-7e6a-4dd8-966e-27a977fd2270)
+
 
 
 
