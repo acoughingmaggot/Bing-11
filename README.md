@@ -1,6 +1,7 @@
 # Bing 11
 
-![Bing Acrylic Preview](https://github.com/user-attachments/assets/3c42e8cd-012c-40d5-bf1a-0bc9ed089c23)
+![image](https://github.com/user-attachments/assets/a252d7c5-fff6-40d7-ad79-7b0960834cc1)
+
 
 
 **Bing 11** is a custom user style designed for [Stylus](https://userstyles.world), inspired by the Windows 11 acrylic aesthetic. This theme enhances Bing's interface with a modern and translucent design.
@@ -14,7 +15,8 @@
 
 
 1. **Install Stylus**: If you haven't already, install the Stylus extension for your browser. It's available for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/stylus/fjnbnpbmkenffdnngjfgmeleoegfcffe)) and other major browsers. .![image](https://github.com/user-attachments/assets/a83987cb-b718-4b52-8798-c599275ba86a)
-2. **Add Bing Acrylic**: Go to [UserStyles.world](https://userstyles.world/style/20792/bing-11-dark-mode-only) and click on install to add the style to Stylus.![image](https://github.com/user-attachments/assets/b8cf7bc2-02d8-42bb-b48c-fdf76d2732fe)
+2. **Add Bing Acrylic**: Go to [UserStyles.world](https://userstyles.world/style/20792/bing-11-dark-mode-only) and click on install to add the style to Stylus.![image](https://github.com/user-attachments/assets/69cae689-746c-47b2-a3bf-97cd47788536)
+
 3. Search anything on bing.com and click on the Stylus extension to enable it. ![image](https://github.com/user-attachments/assets/35848bed-9d70-4896-98a8-b63d335b3dd8)
 
 
