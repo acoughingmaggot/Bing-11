@@ -1,6 +1,19 @@
 # Bing 11
 
-![image](https://github.com/user-attachments/assets/a252d7c5-fff6-40d7-ad79-7b0960834cc1)
+### Shapes (Dark) background, with Crimson Red accent color
+![image](https://github.com/user-attachments/assets/b6b14aac-cfcf-4ac6-b34d-b7bf1394fda4)
+
+### Geometrical (Dark) background, with Sunset Orange accent color
+![image](https://github.com/user-attachments/assets/e3cab898-30ff-41c5-a276-254172821cbb)
+
+### Green Interior (Dark) background, with Emerald Green accent color
+![image](https://github.com/user-attachments/assets/e13b5a44-7f16-49e3-976a-1e7c74db97b6)
+
+### Abstract (Dark) background, with Light Violet accent color
+![image](https://github.com/user-attachments/assets/d4dc9e86-59bf-438f-b5ba-4c4d66ba3314)
+
+### Custom background, with Custom accent color
+![image](https://github.com/user-attachments/assets/33846c01-9f04-43db-af49-db0c45fff83e)
 
 
 
